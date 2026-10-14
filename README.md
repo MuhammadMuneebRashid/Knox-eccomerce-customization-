@@ -24,3 +24,6 @@ This project focuses on building a streamlined, conversion-optimized shopping ex
 ├── assets/                  # Product mockups, banners, and layout screenshots
 ├── snippets/                # Custom PHP functions and checkout logic modifications
 └── README.md                # Project documentation
+```
+##Author
+  Muneeb
