@@ -1,5 +1,6 @@
-# Knox-eccomerce-customization-
+# Knox-eccomerce-customization
 Official frontend repository for Knox Official (knoxoffical.com) — a luxury e-commerce landing page featuring aerospace metal wallets and signature Extrait de Parfums like Knox Royale. Built with custom HTML5, CSS3, and responsive dark luxury aesthetics.
+
 # KNOX Official - Luxury E-Commerce Store
 
 Welcome to the official GitHub repository for **KNOX Official**, a modern, high-end e-commerce web application specializing in aerospace-grade metal pop-up card wallets and luxury Extrait de Parfums (including KNOX Legacy and KNOX Royale).
