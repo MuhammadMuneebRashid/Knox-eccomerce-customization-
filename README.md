@@ -30,4 +30,5 @@ This project focuses on building a streamlined, conversion-optimized shopping ex
   Muneeb
 
 
-if you find it useful then give it a ⭐ star .
+if you find this project  useful then give it a ⭐ star .
+
